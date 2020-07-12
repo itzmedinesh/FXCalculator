@@ -1,0 +1,2 @@
+# FXCalculator
+Foreign Exchange Calculator
